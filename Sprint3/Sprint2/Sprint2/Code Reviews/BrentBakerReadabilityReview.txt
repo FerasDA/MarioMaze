@@ -1,0 +1,11 @@
+﻿    Brent Baker
+    11/12/2014
+    Sprint number 5
+    RectangleConstants.cs
+    Feras Deiratany
+    10
+
+This class is easy to read and maintain as it is a class that just hold the constants for rectangles. The comments detail
+what rectangles are being discribed and and are split up by what they are. The constants can be changed in this file if a 
+sprite were to change and the correction would only need to be changed here. The constants are nicely names as their name
+contains the item and weather its the x, y, width or highth its describing.

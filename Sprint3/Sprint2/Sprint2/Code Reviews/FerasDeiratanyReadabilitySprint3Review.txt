@@ -1,0 +1,7 @@
+﻿Feras Deiratany
+11/12/2014
+Sprint Number 5
+HUDController.cs
+15
+The HUDController is very easy to read and understand. The way everything is initialized/drawn/updated makes iv very easy to find and modify when needed.
+There are some magic numbers that might need to be added as constants in the constant utility class and then used in this class.

@@ -1,0 +1,10 @@
+﻿August Heinsen
+10/20/2014
+Sprint Number 6
+RightJumpingShooting.cs
+Brent Baker
+30 minutes
+The jump is appropriately drawn, and additionally easy to read. Everything is named the way that we would expect,
+and along with concise method implementations where it was easy for me to decide if we needed changes to the following
+implementation that we currently have. If in the future in a few months I was to look at this class again, the naming
+convention is easy enough to follow what is going on. Shooting is clearly shown in the class as well. 

@@ -1,0 +1,36 @@
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\marioSprites.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\GoombaWalking.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Block.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\QuestionBlock.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\EmptyQuestionBlock.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\SolidBlock.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\objects1.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\background1.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\fullbackground.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\enemies.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\Super Spice Bros 2.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\LevelData1.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\HUDFont.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_bump.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_coin.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_fireball.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_gameover.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_mariodie.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_pause.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_stage_clear.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_stomp.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_warning.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\smb_jump.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Sound\Super Spice Bros 2.wma
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Sprint2.exe
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Sprint2.pdb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\DataTypes.dll
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\DataTypes.pdb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\obj\x86\Debug\Sprint2.csprojResolveAssemblyReference.cache
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\obj\x86\Debug\Sprint2.exe
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\obj\x86\Debug\Sprint2.pdb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\luigiSprites.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\megamanx.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\megamanSprites.xnb
+C:\Users\Feras\Source\Workspaces\BlueBombers\BuildProcessTemplates\Sprint3\Sprint2\Sprint2\bin\x86\Debug\Content\Level2Data.xnb

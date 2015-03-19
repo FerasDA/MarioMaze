@@ -1,0 +1,9 @@
+﻿    August Heinsen
+    10/29/2014
+    Sprint number 4
+    CollisionType.cs
+    Brent Baker
+	30 minutes
+	The code implementation on this class is clean and concise. It is "thin" and 
+	understandable as per each method. It covers the collision types that we need to worry about. Each method that has a method name,
+	it is named as what the specific functions the method would perform. 

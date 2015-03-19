@@ -1,0 +1,11 @@
+﻿    Brent Baker
+    11/17/2014
+    Sprint number 5
+    RectangleConstants.cs
+    Feras Deiratany
+    10
+
+For sprint 6 RectangleConstants is a quick and easy to read and modify file. Its set up to store all the coRectangles that are
+used in all the other classed that use rectangles to get a sprite off a sprite sheet. If the sprite sheet where to change or use
+a new sprite sheet you would just change the rectangle constants here and the other classes would not need to be changed. More constants
+will need to be added as new items, blocks, enemies, charaters are added.

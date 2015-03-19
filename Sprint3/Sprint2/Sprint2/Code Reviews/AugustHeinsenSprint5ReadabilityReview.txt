@@ -1,0 +1,9 @@
+﻿    August Heinsen
+    11/12/2014
+    Sprint number 5
+    GamePause.cs
+    Brent Baker
+	20 minutes
+	The code implementation on this interface is short and concise, as we have been shown to do in class. It is "thin" and 
+	understandable as per each method. It covers the Mario states that we would see in each transition. Additionally, each name of 
+	each variable and function tells you what it should do. Cohesive reading for us. 
